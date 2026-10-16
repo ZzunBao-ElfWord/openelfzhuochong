@@ -1,0 +1,10 @@
+{
+  "pet": "cat",
+  "states": {
+    "idle":   { "emoji": "cat",       "text": "待机中",              "animation": "blink" },
+    "talking":{ "emoji": "cat",       "text": "我在呢，今天也要加油哦", "animation": "talkBounce" },
+    "sleep":  { "emoji": "sleeping",  "text": "打盹",                "animation": "none" },
+    "eat":    { "emoji": "fish",      "text": "刚吃饱",              "animation": "none" },
+    "charge": { "emoji": "battery",   "text": "充电中",              "animation": "none" }
+  }
+}
